@@ -1,0 +1,11 @@
+{
+  "name": "vue-socketio-chat",
+  "description": "A chat app using Vue, Socket.io, and Express",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
